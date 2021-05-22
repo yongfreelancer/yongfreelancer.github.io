@@ -1,0 +1,78 @@
+  body,
+  html {
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  /* Google chrome */
+  @-webkit-keyframes svg-text-anim {
+    40% {
+      stroke-dashoffset: 0;
+      fill: transparent;
+    }
+
+    60% {
+      stroke-dashoffset: 0;
+      fill: #ffffff;
+    }
+
+    100% {
+      stroke-dashoffset: 0;
+      fill: #ffffff;
+    }
+
+  }
+
+  /* Most browsers */
+  @keyframes svg-text-anim {
+    40% {
+      stroke-dashoffset: 0;
+      fill: transparent;
+    }
+
+    60% {
+      stroke-dashoffset: 0;
+      fill: #ffffff;
+    }
+
+    100% {
+      stroke-dashoffset: 0;
+      fill: #ffffff;
+    }
+  }
+
+  /* ---- particles.js container ---- */
+  #particles-js {
+    position: absolute;
+    background-color: rgb(41, 41, 41);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    z-index: -1;
+  }
+
+  .fill-white {
+    fill: white;
+    color: rgb(189, 189, 189);
+  }
+
+  .skillset-icon {
+    width: 100px
+  }
+
+  .dev-icons {
+    text-align: center;
+  }
+
+  .software-skill-inline {
+    display: inline-block;
+  }
+
+  .software-skill-inline p {
+    color: white;
+    font-size: 12px;
+    font-family: 'Poppins';
+    font-weight: 100;
+  }
+
+  }
