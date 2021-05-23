@@ -53,11 +53,11 @@
 
   .fill-white {
     fill: white;
-    color: rgb(189, 189, 189);
+    color: #bdbdbd;
   }
 
   .skillset-icon {
-    width: 100px
+    height: 46.5px
   }
 
   .dev-icons {
