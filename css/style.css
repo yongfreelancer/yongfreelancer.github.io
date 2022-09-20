@@ -75,7 +75,10 @@
     font-family: 'Poppins';
     font-weight: 100;
   }
-
+  #bio-section{
+    background-color: aqua;
+    padding:20%;
+  }
 /* Fullpage JS Fade Transition */
   /* .fullpage-wrapper .fp-section {
     width: 100% !important;
