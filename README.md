@@ -5,10 +5,12 @@ Welcome to my GitHub repository! This repository showcases my web development sk
 I'm Moeses Reo Barluado, a web developer with almost four years of experience. I have proficiency in the following areas:
 
 ## Web Developer
-As a web developer, my tasks and responsibilities revolve around creating and implementing the visual and interactive elements of a website or web application along with its functionalities on the back-end if necessary. 
-I have worked closely with designers and other developers to bring the approved design to life. Here's an overview of the tasks and skill sets involved in my overall web development career:
+As a web developer, my tasks and responsibilities revolve around creating and implementing the visual and interactive elements of a website or web application along with its functionalities on the back end if necessary. This also involves handling the server-side logic and database management of websites/web apps, and working closely with front-end developers and other team members to ensure the smooth functioning and performance of the application. I have also worked closely with designers to bring the approved design to life. Here's an overview of the tasks and skill sets involved in my overall web development career:
+- Server-Side Programming Languages: Proficiency in PHP.
+- Working with APIs - integrating third-party APIs in the websites
+- Database Management - Understanding of database systems specifically MySQL
 - Responsive Design: Familiarity with responsive design principles and techniques.
-- CSS Preprocessors: Experience with CSS preprocessors like Bootstrap, MaterialCSS, TailwindCSS for efficient styling.
+- CSS Preprocessors: Experience with CSS preprocessors like Bootstrap, MaterialCSS, and TailwindCSS for efficient styling.
 - Version Control: Proficiency in using version control systems, such as Git.
 - Browser Development Tools: Ability to leverage browser development tools for debugging and performance optimization.
 - Web Performance Optimization: Understanding of techniques to optimize website performance and speed.
@@ -20,13 +22,14 @@ I have worked closely with designers and other developers to bring the approved 
 - Adaptability: Ability to adapt to changing technologies and learn new tools and frameworks.
 
 ### WordPress:
-- Theme and plugin development
-- Custom post types and taxonomies
+- Theme and custom plugin development
+- Custom post types and taxonomies (ACF and Custom Post Type CPT-UI expertise)
 - Security and performance optimization
 - Custom widgets and shortcodes
 - Site migration and deployment
 - Theme and child theme deployment
 - Page builders: Elementor, WPBakery, Flatsome, Astra, Avada, Essentials Theme, DIVI
+
 
 ### Shopify:
 - Intermediate proficiency in Shopify Liquid programming language
@@ -81,3 +84,5 @@ I have worked closely with designers and other developers to bring the approved 
 - Automation through Zapier and Integromat
 - Model-View-Controller (MVC) architecture background
 Photoshop and graphic design skills
+
+
